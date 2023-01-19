@@ -3,7 +3,7 @@
 
 # 📝 How to add things?
 > Just send a pull request and I will review them as soon as I can. (Takes around 24 Hours)
-> Join the discord to get all notifications! 
+> Join the discord to get all notifications! https://discord.gg/RkyDpcttqa
 
 # 🚨 Rules 🚨
 1. Must NOT edit the README.md file.
